@@ -1,7 +1,7 @@
 # fb_data_analyzer
 Jupyter Notebook for analyzing Facebook news statistics
 
-![alt text](https://github.com/all2gos/fb_data_analyzer/blob/main/ss.jpg?raw=true)
+![ss](https://user-images.githubusercontent.com/113773292/200026027-332e1c22-7705-479e-bd60-977b830dd0c3.png)
 
 ## Packages needed:
  pandas (>=1.4.4)
