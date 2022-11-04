@@ -28,10 +28,18 @@ years, months, specific months (e.g. Aprils), specific days of the week, specifi
 
 to do this you need to write
 
+```
+
 sns.countplot(x = df[time interval that interest you])]
+
+```
 
 when you add to the above function parameter
 
+```
+
 hue = df['sender_name']
+
+```
 
 The script will draw graphs by individual conversation participants
